@@ -1,0 +1,12 @@
+        * {
+            font-family: 'Noto Sans KR', sans-serif;
+        }
+
+        .margin_style {
+            margin: 40px auto 40px auto;
+        }
+
+        .wrap {
+            width: 700px;
+            margin: 90px auto 90px auto;
+        }
